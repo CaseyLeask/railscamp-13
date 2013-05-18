@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" baseProfile="full" id="body" width="16" height="16" viewBox="0 0 1 1" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events">
-<title>Twitter Logo</title>
-<desc>This was produced by version 4.4 of GNU libplot, a free library for exporting 2-D vector graphics.</desc>
-<g id="content" transform="scale(0.0040) scale(-1,1) rotate(180) translate(40,-205)" xml:space="preserve" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10.433" stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1" fill="none" fill-rule="evenodd" fill-opacity="1" font-style="normal" font-variant="normal" font-weight="normal" font-stretch="normal" font-size-adjust="none" letter-spacing="normal" word-spacing="normal" text-anchor="start">
-<path d="M200,143.3 L198.61,142.7 L197.21,142.12 L195.8,141.57 L194.38,141.05 L192.95,140.55 L191.5,140.08 L190.04,139.63 L188.57,139.21 L187.09,138.82 L185.6,138.46 L184.1,138.12 L182.58,137.8 L181.06,137.52 L179.53,137.26 L177.99,137.04 L176.43,136.84 C184.9,141.91,191.41,149.95,194.48,159.54 C186.55,154.83,177.77,151.42,168.42,149.58 C160.93,157.55,150.27,162.54,138.47,162.54 C115.81,162.54,97.434,144.16,97.434,121.5 C97.434,118.29,97.797,115.16,98.496,112.15 C64.395,113.86,34.16,130.2,13.922,155.03 C10.391,148.96,8.3672,141.92,8.3672,134.4 C8.3672,120.16,15.613,107.6,26.621,100.24 C19.895,100.46,13.57,102.31,8.0391,105.38 C8.0312,105.2,8.0312,105.04,8.0312,104.86 C8.0312,84.98,22.176,68.395,40.949,64.625 C37.504,63.688,33.879,63.188,30.137,63.188 C27.492,63.188,24.922,63.445,22.418,63.922 C27.641,47.621,42.793,35.758,60.746,35.43 C46.707,24.422,29.012,17.863,9.7891,17.863 C6.4766,17.863,3.2109,18.059,0,18.438 C18.16,6.793,39.727,0,62.898,0 C138.37,0,179.65,62.523,179.65,116.75 C179.65,118.53,179.6,120.3,179.52,122.06 C187.54,127.84,194.5,135.07,200,143.3 Z " stroke="black" stroke-width="1" fill="white" fill-rule="nonzero" />
-</g>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+<path fill="#FFFFFF" d="M13.333,4.692c-0.393,0.174-0.814,0.292-1.257,0.344c0.452-0.271,0.799-0.7,0.962-1.21
+	c-0.423,0.251-0.891,0.433-1.39,0.531c-0.398-0.425-0.968-0.691-1.597-0.691c-1.209,0-2.188,0.98-2.188,2.188
+	c0,0.171,0.02,0.338,0.057,0.499C6.102,6.261,4.488,5.39,3.409,4.066C3.221,4.389,3.113,4.765,3.113,5.167
+	c0,0.759,0.386,1.429,0.974,1.821c-0.359-0.011-0.696-0.11-0.991-0.273C3.095,6.723,3.095,6.732,3.095,6.742
+	c0,1.06,0.755,1.945,1.756,2.146c-0.184,0.05-0.377,0.077-0.576,0.077c-0.142,0-0.278-0.014-0.412-0.04
+	c0.278,0.87,1.087,1.502,2.044,1.52c-0.749,0.587-1.692,0.937-2.718,0.937c-0.177,0-0.351-0.01-0.521-0.03
+	c0.968,0.621,2.118,0.983,3.354,0.983c4.024,0,6.226-3.335,6.226-6.227c0-0.095-0.002-0.189-0.006-0.283
+	C12.669,5.516,13.04,5.13,13.333,4.692z"/>
 </svg>
